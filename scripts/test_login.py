@@ -10,7 +10,7 @@ class TestLogin:
 
     def test_login3(self):
         print("test_login3")
-        assert 1
+        assert 0
     def test_login4(self):
         print("test_login3")
         assert 1
@@ -19,4 +19,4 @@ class TestLogin:
         assert 1
     def test_login6(self):
         print("test_login3")
-        assert 1
+        assert 0
