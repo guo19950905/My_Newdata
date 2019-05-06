@@ -11,3 +11,12 @@ class TestLogin:
     def test_login3(self):
         print("test_login3")
         assert 1
+    def test_login4(self):
+        print("test_login3")
+        assert 1
+    def test_login5(self):
+        print("test_login3")
+        assert 1
+    def test_login6(self):
+        print("test_login3")
+        assert 1
